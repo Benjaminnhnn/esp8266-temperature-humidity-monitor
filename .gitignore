@@ -1,0 +1,19 @@
+# Sensitive Arduino config
+arduino/**/ConfigMode.h
+
+# Build files
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
