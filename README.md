@@ -176,7 +176,7 @@ Click **Upload** to flash the code to the ESP8266.
 
 The demo video is hosted on Google Drive.
 
-[Watch Demo Video](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Watch Demo Video](https://drive.google.com/drive/folders/1MJmVwwYzH-KYlTbX0ja_X93nqAHEek35?usp=sharing)
 
 ## Project Report
 
